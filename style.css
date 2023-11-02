@@ -24,7 +24,7 @@ body {
 
 hr {
     width: 80%; /* Set the width of the hr to 80% of its parent container */
-    background-color: #bd5c4b;
+    background-color: white;
     height: 3px;
     border:none;
 
