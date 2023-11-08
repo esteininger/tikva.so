@@ -244,6 +244,15 @@ hr {
 }
 
 
+.information {
+    max-width: 675px;
+    width: auto;
+    display: block;
+    margin: 27px auto;
+    color:white;
+    text-align:center;
+}
+
 /*-----------------------parallax-----------------------*/
 /* credits: https://www.youtube.com/watch?v=aywzn9cf-_U */
 #stars1 {
